@@ -1,3 +1,13 @@
+<h1 align="center" style="color:#ff9ecb; text-shadow: 0 0 10px #ff9ecb;">
+  Welcome to my GitHub
+</h1>
+<h2 align="center" style="color:pink;">
+  I Create and love to make simpler 
+</h2>
+<h3 align="center" style="color:#ff9ecb; text-shadow: 0 0 10px #ff9ecb;">
+  Let’s turn ideas into reality
+</h3>
+
 # 💫 About Me:
 I’m currently working on:<br>Front-end development using React.js, building modular UI components, optimizing rendering performance, and integrating REST APIs.<br><br>I’m looking to collaborate on:<br>Web development projects involving React, Node.js, Express, JavaScript performance optimization, and scalable application design.<br><br>I’m looking for help with:<br>Advanced React patterns, backend architecture, API security, authentication, and deployment workflows.<br><br>I’m currently learning:<br>React Hooks, Context API, Express.js, MongoDB, API design principles, and production-ready project structuring.<br><br>Ask me about:<br>JavaScript (ES6+), React fundamentals, DOM manipulation, API integration, Git/GitHub workflows, and debugging strategies.<br><br>Fun fact:<br>I document my technical learning journey and convert it into beginner-friendly content while building real-world applications.
 
